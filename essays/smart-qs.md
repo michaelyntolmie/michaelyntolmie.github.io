@@ -27,7 +27,7 @@ On the other hand, “not so smart” questions often return inefficient or inef
 
 And now it's time for some examples of Smart and Not So Smart Questions:
 
- ## Smart:
+## Smart:
 Stackoverflow Link: [Smart Question Example](https://stackoverflow.com/questions/77011695/constructing-a-vector-of-structs-with-some-custom-constructors-from-exactly-tw)
 The question is well-structured, concise, and includes relevant code snippets and error messages. It’s also written in an entertaining way. The asker demonstrates prior research, mentions the specific issue, and shows willingness to do additional work on their own if pointed in the right direction.
 This helped the asker get a fast and effective answer, and even encouraged discourse about the problem amongst the various participating parties.
