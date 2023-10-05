@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-5.0-illustration.png">
+<img width="fluid" class="rounded float-start pe-4" src="../img/bootstrap-5.0-illustration.png">
 
 ##UI Frameworks - Why Bother?##
 Web development can be challenging without the aid of UI frameworks like Bootstrap 5. HTML and CSS, the foundational languages of web development, require intricate tinkering to achieve responsive and visually pleasing designs. Creating navigation bars from scratch demands an in depth understanding of complex concepts, leading to tedious coding and opens up opportunities for compatibility issues.
