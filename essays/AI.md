@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/bootstrap-5.0-illustration.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/AI_Pic.png">
 
 Title: Exploring the Impact of AI in ICS 314: A Reflective Essay
 
@@ -29,7 +29,7 @@ Artificial Intelligence (AI) has become a transformative force in various fields
    AI, particularly ChatGPT, was occasionally consulted for complex WODs. I would leverage ChatGPT by asking, for example, "Write a function using underscore to implement the following instructions." The AI provided a starting point, but refinement was necessary. The benefit was guidance, but the cost was the need for extensive trial and error. The trade-off was the time spent refining AI-generated solutions to meet specific requirements.
 
 4. Essays:
-   AI played a limited role in essay writing. At most I would ask ChatGPT for potential subjects or outlines. But I would do the major heavy lifting of the actual writing as one of the things encouraged would be creativity.
+   AI played a limited role in essay writing. At most I would ask ChatGPT for potential subjects or outlines. But I would do the major heavy lifting of the actual writing as one of the things encouraged would be creativity. 
 
 5. Final Project:
    So far the only way I’ve used AI for the final project is to help debug, or to explain error messages to me.
