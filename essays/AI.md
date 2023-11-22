@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks"
+title: "My Use of AI in the Education"
 date: 2023-11-21
 published: true
 labels:
@@ -10,8 +10,6 @@ labels:
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/AI_Pic.png">
-
-Title: Exploring the Impact of AI in ICS 314: A Reflective Essay
 
 ## I. Introduction
 
