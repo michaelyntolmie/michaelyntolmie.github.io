@@ -11,6 +11,7 @@ labels:
 
 <img width="800px" class="rounded float-start pe-4" src="../img/flying_score.png">
 
+
 In the vast auditorium of software development, design patterns stand as the sheet music orchestrating the harmonious performance of elegant, scalable, and maintainable code. These patterns, much like the conductor's baton guiding a musical ensemble, empower developers to navigate the complexities of software architecture. Let's dive into this symphonic realm, exploring the significance of design patterns and how they manifested in our classroom applications.
 
 ### Prelude: Decoding Design Patterns
