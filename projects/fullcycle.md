@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/waffle.jpg
+image: img/waffle.png
 title: "Full Cycle App"
 date: 2023
 published: true
