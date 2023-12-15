@@ -4,15 +4,12 @@
     "label": "Student",
     "picture": "https://github.com/michaelyntolmie.png",
     "email": "mtolmie@hawaii.edu",
-    "phone": "",
     "website": "https://michaelyntolmie.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "michaelyntolmie", "url": "http://github.com/michaelyntolmie" },
       { "network": "linkedin", "username": "Michaelyn Tolmie", "url": "http://linkedin.com/in/michaelyn-tolmie-99b39a28a" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
