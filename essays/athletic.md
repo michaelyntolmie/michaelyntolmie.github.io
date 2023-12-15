@@ -4,7 +4,7 @@ type: essay
 title: "Athletic Software Engineering and Why It's Worth the Headache"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Learning
 ---
