@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/waffle.png
+image: img/container.png
 title: "Full Cycle App"
 date: 2023
 published: true
@@ -9,7 +9,8 @@ labels:
  
 summary: "A web and mobile system for the tracking and allocation of reusable containers. Developed for HACC 2023."
 ---
-  <img width="200px" src="../img/takeoutUtensiles.png" >
+<img width="200px" src="../img/takeoutUtensiles.jpg">
+  
 Full Cycle Takeout, a non-profit organization dedicated to sustainability, faced a substantial challenge with 20-30% container loss at events. In response, we developed a mobile app for that tracked the rentals and returns of the containers for their reusable container program. The user-friendly interface automated the rental process, encouraging consistent returns. The app resembled bike/scooter rental services, enabling registered users to seamlessly check out containers. 
 
 ## My Contributions
